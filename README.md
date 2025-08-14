@@ -44,35 +44,35 @@ Aquí encontrarás las visualizaciones clave generadas a partir del análisis de
 
 ### Facturación Total por Tienda
 
-![Facturación Total por Tienda](graficas/grafico_facturacion.png)
+![Gráfico de Facturación](graficas/Facturacion_total_por_tiendas.png)
 
 ### Categorías Más Populares por Tienda
 
-![Categorías Populares](graficas/grafico_categorias_populares.png)
+![Gráfico de Categorías Populares](graficas/categorias_populares.png)
 
 ### Evaluación Promedio por Tienda
 
-![Evaluación Promedio por Tienda](graficas/grafico_evaluacion_clientes.png)
+![Gráfico de Evaluación Promedio](graficas/Evaluacion_promedio.png)
 
 ### Productos Más y Menos Vendidos por Tienda
 
-![Productos Más y Menos Vendidos](graficas/grafico_productos_vendidos.png)
+![Gráfico de Productos Más y Menos Vendidos](graficas/productos_mas_vendidos.png)
 
 ### Costo Promedio de Envío por Tienda
 
-![Costo Promedio de Envío](graficas/grafico_envio_promedio.png)
-
-### Puntaje General de Desempeño por Tienda
-
-![Puntaje General de Desempeño](graficas/puntaje_general.png)
+![Gráfico de Costo de Envío Promedio](graficas/costo_promedio.png)
 
 ### Relación entre Precio y Costo de Envío
 
-![Relación entre Precio y Costo de Envío](graficas/precio_vs_costo_envio.png)
+![Relación entre Precio y Costo de Envío](graficas/relacion_precio_envio.png)
 
 ### Distribución de Calificaciones de Productos
 
-![Distribución de Calificaciones de Productos](graficas/distribucion_calificaciones.png)
+![Distribución de Calificaciones de Productos](graficas/calificaciones_de_productos.png)
+
+### Recomendación de la Tienda a Vender
+
+![Recomendación de la Tienda a Vender](graficas/tienda_recomendada.png)
 
 ## 💡 Conclusiones y Recomendación Final
 
@@ -87,5 +87,4 @@ Basado en el análisis exhaustivo de las 4 tiendas, se recomienda **vender la Ti
 Estos factores la posicionan como la tienda menos rentable y con mayor potencial de mejora o desinversión.
 
 ---
-Hecho con ❤️ para el desafío de Alura Latam.
-````
+Hecho con ❤️ para el desafío de Alura Latam, por: [SynergyaTech](https://synergya.tech)
