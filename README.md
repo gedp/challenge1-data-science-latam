@@ -31,9 +31,10 @@ Y con esta información, recomendar cuál tienda vender para invertir en un nuev
 
 ## 🚀 Cómo Ejecutar el Proyecto
 
-1. **Clona el repositorio** 📥:    
-```bash
-   git clone https://github.com/gedp/challenge1-data-science-latam.git
+1. **Clona el repositorio** 📥:
+    ```bash
+    git clone [https://github.com/gedp/challenge1-data-science-latam.git](https://github.com/gedp/challenge1-data-science-latam.git)
+    ```
 2. **Abre el notebook** en Google Colab o tu entorno de desarrollo Python preferido.
 3. **Ejecuta todas las celdas** para cargar los datos, realizar el análisis y generar las visualizaciones. ✨
 
@@ -43,23 +44,23 @@ Aquí encontrarás las visualizaciones clave generadas a partir del análisis de
 
 ### Facturación Total por Tienda
 
-![Facturación Total por Tienda](graficas/facturacion_total.png)
+![Facturación Total por Tienda](graficas/grafico_facturacion.png)
 
 ### Categorías Más Populares por Tienda
 
-![Categorías Populares](graficas/categorias_populares.png)
+![Categorías Populares](graficas/grafico_categorias_populares.png)
 
 ### Evaluación Promedio por Tienda
 
-![Evaluación Promedio por Tienda](graficas/evaluacion_promedio.png)
+![Evaluación Promedio por Tienda](graficas/grafico_evaluacion_clientes.png)
 
-### Productos Más Vendidos por Tienda
+### Productos Más y Menos Vendidos por Tienda
 
-![Productos Más Vendidos](graficas/productos_mas_vendidos.png)
+![Productos Más y Menos Vendidos](graficas/grafico_productos_vendidos.png)
 
 ### Costo Promedio de Envío por Tienda
 
-![Costo Promedio de Envío](graficas/costo_envio_promedio.png)
+![Costo Promedio de Envío](graficas/grafico_envio_promedio.png)
 
 ### Puntaje General de Desempeño por Tienda
 
@@ -87,3 +88,4 @@ Estos factores la posicionan como la tienda menos rentable y con mayor potencial
 
 ---
 Hecho con ❤️ para el desafío de Alura Latam.
+````
