@@ -42,56 +42,56 @@ Y con esta información, recomendar cuál tienda vender para invertir en un nuev
 
 Aquí encontrarás las visualizaciones clave generadas a partir del análisis de datos de las tiendas. Las imágenes se encuentran en la carpeta `graficas`.
 
-### Facturación Total por Tienda
+### 💰 Facturación Total por Tienda
 
 ![Gráfico de Facturación](graficas/Facturacion_total_por_tiendas.png)
 *Análisis:* Este gráfico de barras muestra la facturación total generada por cada una de las cuatro tiendas. La altura de cada barra representa el total de ingresos por ventas de cada tienda. Observamos que la Tienda 1 tiene la facturación más alta, seguida por la Tienda 2, Tienda 3 y finalmente la Tienda 4 con la facturación más baja. Esto indica la contribución directa de cada tienda a los ingresos generales.
 
 ---
 
-### Categorías Más Populares por Tienda
+### 🏷️ Categorías Más Populares por Tienda
 
 ![Gráfico de Categorías Populares](graficas/categorias_populares.png)
 *Análisis:* Estos gráficos de pastel (uno por tienda) muestran la distribución porcentual de las ventas entre las tres categorías de productos más populares en cada tienda. Cada porción del pastel representa el porcentaje de ventas que proviene de una categoría específica. Al comparar los gráficos, podemos ver qué categorías son las que más contribuyen a las ventas en cada tienda. En general, se observa que "Muebles", "Electrónicos" y "Juguetes" son consistentemente las categorías más vendidas en todas las tiendas, aunque el porcentaje de contribución puede variar ligeramente entre ellas.
 
 ---
 
-### Evaluación Promedio por Tienda
+### ⭐ Evaluación Promedio por Tienda
 
 ![Gráfico de Evaluación Promedio](graficas/Evaluacion_promedio.png)
 *Análisis:* Este gráfico de barras compara la evaluación promedio de los productos en cada tienda, con una línea de referencia en 4.0. La altura de cada barra indica la calificación promedio que los clientes han dado a los productos de esa tienda (en una escala de 1 a 5). Una evaluación promedio más alta sugiere una mayor satisfacción del cliente. La línea de referencia permite visualizar rápidamente qué tiendas cumplen o superan una meta de 4.0. Observamos que las Tiendas 2 y 3 superan la meta, mientras que la Tienda 1 y Tienda 4 están ligeramente por debajo.
 
 ---
 
-### Productos Más y Menos Vendidos por Tienda
+### 📦 Productos Más y Menos Vendidos por Tienda
 
 ![Gráfico de Productos Más y Menos Vendidos](graficas/productos_mas_vendidos.png)
 *Análisis:* Estos gráficos de barras horizontales (uno por tienda) muestran los 5 productos más vendidos en cada tienda y la cantidad de ventas. La longitud de cada barra indica el volumen de ventas de un producto específico. Esto ayuda a identificar los productos estrella en cada ubicación. Al comparar entre tiendas, podemos ver si ciertos productos son consistentemente populares o si hay variaciones locales en las preferencias de los clientes.
 
 ---
 
-### Costo Promedio de Envío por Tienda
+### 🚚 Costo Promedio de Envío por Tienda
 
 ![Gráfico de Costo de Envío Promedio](graficas/costo_promedio.png)
 *Análisis:* Este gráfico de barras muestra el costo promedio de envío por tienda, con una línea de referencia para el promedio general. La altura de cada barra representa el costo promedio asociado al envío de un producto desde cada tienda. La Tienda 4 presenta el costo de envío promedio más bajo, mientras que la Tienda 1 tiene el más alto.
 
 ---
 
-### Relación entre Precio y Costo de Envío
+### 🔗 Relación entre Precio y Costo de Envío
 
 ![Relación entre Precio y Costo de Envío](graficas/relacion_precio_envio.png)
 *Análisis:* Este gráfico de dispersión muestra la relación entre el precio de un producto y su costo de envío para todos los datos combinados. Cada punto en el gráfico representa un producto individual. Observamos una clara tendencia lineal ascendente, lo que sugiere que, en general, los productos con precios más altos tienden a tener costos de envío más elevados.
 
 ---
 
-### Distribución de Calificaciones de Productos
+### 📈 Distribución de Calificaciones de Productos
 
 ![Distribución de Calificaciones de Productos](graficas/calificaciones_de_productos.png)
 *Análisis:* Este histograma muestra la frecuencia con la que aparecen las diferentes calificaciones de productos (de 1 a 5) en el conjunto de datos combinado. La altura de cada barra indica cuántos productos recibieron una calificación particular. Podemos observar que la barra más alta está en la calificación de 5, lo que sugiere que una gran parte de los productos reciben la máxima puntuación.
 
 ---
 
-### Recomendación de la Tienda a Vender
+### 💡 Recomendación de la Tienda a Vender
 
 ![Recomendación de la Tienda a Vender](graficas/tienda_recomendada.png)
 *Análisis:* Este gráfico de barras muestra un puntaje general de desempeño (normalizado entre 0 y 1) calculado a partir de la facturación, evaluación y costo de envío de cada tienda. La tienda con el puntaje más bajo está resaltada. La Tienda 1 tiene el puntaje más bajo, lo que la identifica como la candidata recomendada para vender según este análisis.
