@@ -87,4 +87,4 @@ Basado en el análisis exhaustivo de las 4 tiendas, se recomienda **vender la Ti
 Estos factores la posicionan como la tienda menos rentable y con mayor potencial de mejora o desinversión.
 
 ---
-Hecho con ❤️ para el desafío de Alura Latam, por: <a href="https://synergya.tech" target="_blank">SynergyaTech</a>
+Hecho con ❤️ para el desafío de Alura Latam, por: [SynergyaTech](https://synergya.tech)
